@@ -1,0 +1,14 @@
+.board button {
+
+width : 100px;
+height : 100px;
+border-radius: 50%;
+background-color: gray;
+margin : 2px;
+border : 1px solid black;
+}
+
+.container
+{
+  padding: 20px;
+}
